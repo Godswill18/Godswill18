@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Godswill18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Godswill Okhamera
+- 👀 I am a Full-stack web developer
+- 🌱
+- 💞️ 
+- 📫 
 
 <!---
 Godswill18/Godswill18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
