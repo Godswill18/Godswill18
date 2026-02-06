@@ -1,4 +1,4 @@
-A dynamic and results-oriented Full-Stack Web Developer with a strong track record of building and 
+A dynamic and results-oriented Full-Stack Developer with a strong track record of building and 
 optimizing high-performance web applications. Adept at architecting scalable solutions, 
 enhancing user experience, and driving operational efficiency through cutting-edge technologies. 
 Proven expertise in developing intranet systems, SME applications, real estate platforms, CRM 
